@@ -1,5 +1,5 @@
 
-Dynamic-Routing-Protocol-OSPF-Implementaion-for-Multi-Router-Network-Traffic-Optimzation deskripsikan dan gunakan emoji biar ga datar
+Dynamic-Routing-Protocol-OSPF-Implementaion-for-Multi-Router-Network-Traffic-Optimzation 
 
 🌐 Implementasi Open Shortest Path First (OSPF) dalam jaringan multi-router adalah strategi yang handal untuk optimasi lalu lintas dinamis, toleransi kesalahan (fault tolerance), dan pemanfaatan bandwidth yang efisien. Sebagai Interior Gateway Protocol (IGP) berbasis teknologi link-state, OSPF membangun peta topologi jaringan yang lengkap, memungkinkan setiap router untuk menghitung jalur optimal secara mandiri ke setiap tujuan.
 
@@ -37,8 +37,3 @@ Menyesuaikan timer OSPF Hello dan Dead (misalnya Hello diatur ke 1 detik, Dead d
 🗺️ Perhitungan SPF: Setelah LSDB disinkronkan, router menjalankan algoritma SPF untuk memetakan pohon jalur terpendek yang bebas loop.
 
 📥 Instalasi Tabel Routing: Rute optimal dimasukkan ke dalam tabel routing lokal, siap meneruskan lalu lintas multi-router secara efisien.
-
-
-
-Gemini bukan manusia. Gemini bisa membuat kesalahan, jadi periksa kembali responsnya.
-
